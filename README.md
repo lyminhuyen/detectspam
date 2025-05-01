@@ -2,7 +2,7 @@
 
 *This notebook is my learning process, please note that im a newbie trying new stuff*
 
-Original data: [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/images/data)
+Original dataset: [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/images/data)
 
 ## Intstall for sklearn library
 ```
