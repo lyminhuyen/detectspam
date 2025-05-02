@@ -13,3 +13,7 @@ pip install -U scikit-learn
 2. Using TF-IDF
 3. Normalization
 4. Visualize data
+
+## Reference
+1. [Text Normalization Techniques](https://spotintelligence.com/2023/01/25/text-normalization-techniques-nlp/)
+2. 
