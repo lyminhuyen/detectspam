@@ -17,13 +17,17 @@ pip install -U scikit-learn
 pip install ntlk
 ```
 (optional) ``` nltk.download('punkt_tab') ```
-3. 
+
 ## Target
 1. Visualize data
 2. Normalization
 3. Using TF-IDF
 4. Modeling:
     - Logistic Regression
+    - Decision Tree
+    - Random Forest
+    - Gradient Boosting
+    - AdaBoost
 
 
 ## Reference
