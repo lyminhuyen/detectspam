@@ -19,7 +19,7 @@ pip install ntlk
 (optional) ``` nltk.download('punkt_tab') ```
 
 ## Target
-1. Visualize data
+1. ~~Visualize data: Ngram~~
 2. Normalization
 3. Using TF-IDF
 4. Modeling:
